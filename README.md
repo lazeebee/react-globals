@@ -1,7 +1,7 @@
 # react-globals
 
 ```
-npm -i react-globals --save
+npm i react-globals
 ```
 
 ```javascript
